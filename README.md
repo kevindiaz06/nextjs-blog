@@ -151,6 +151,11 @@ Este proyecto está optimizado para desplegarse en plataformas como:
 
 Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LICENSE).
 
+## 🌍 Idiomas / Languages
+
+- **Español** - Este README
+- **English** - [README_EN.md](README_EN.md)
+
 ---
 
 **Desarrollado con ❤️ por Kevin usando Next.js**
